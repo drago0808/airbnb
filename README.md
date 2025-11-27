@@ -16,5 +16,5 @@ This repository contains three folders:
 - Contains the R code for data cleaning and preprocessing
 
 ### `03_Data/`
-- Contains the original datasets and processed data used in the project
+- Contains the raw datasets as well as the cleaned datasets (.RData file) used in the project
 - NYPD Arrest data can be accessed here: https://www.kaggle.com/datasets/justinpakzad/nypd-arrests-2023-dataset
