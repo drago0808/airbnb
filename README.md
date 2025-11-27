@@ -9,12 +9,12 @@ The app can be accessed in a browser using the link below (web version may not w
 
 This repository contains three folders:
 
-### `01_App/`
-- Contains the R code for launching the Shiny App
+### `App.R`
+- The R script that launches the Shiny App
 
-### `02_Preprocessing/`
-- Contains the R code for data cleaning and preprocessing
+### `Preprocessing/`
+- Contains the R script for data cleaning and preprocessing
 
-### `03_Data/`
+### `Data/`
 - Contains the raw datasets as well as the cleaned datasets (.RData file) used in the project
 - NYPD Arrest data can be accessed here: https://www.kaggle.com/datasets/justinpakzad/nypd-arrests-2023-dataset
