@@ -1,8 +1,7 @@
 
 ## URL for App
 
-The app can be accessed in a browser using the link below (web version may not work reliably):
-
+The web version of the app can be accessed using the link below (it may need to be refreshed a few times to display correctly):
 [https://carter-vonderahe.shinyapps.io/NYC_Airbnb_Listings_Explorer/](https://carter-vonderahe.shinyapps.io/NYC_Airbnb_Listings_Explorer/_w_25e1b80f9c9c4a08b18fb082745bd294/_w_b7e1ee821c734f0b9818bbd646230fc8/_w_0ca77c84d86a4353b998feae5bbe5c2d/#tab-8286-2)
 
 <img width="1436" height="750" alt="Screenshot 2025-11-26 at 11 13 17 PM" src="https://github.com/user-attachments/assets/cd2baded-7e67-4a8e-b00f-26d3f71c3ba7" />
