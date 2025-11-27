@@ -1,7 +1,7 @@
 
 ## URL for App
 
-The app can be accessed in a browser using the following URL:
+The app can be accessed in a browser using the link below:
 
 https://carter-vonderahe.shinyapps.io/NYC_Airbnb_Listings_Explorer/
 
