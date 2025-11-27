@@ -9,7 +9,7 @@ The app can be accessed in a browser using the link below (web version may not w
 
 ## Repository Structure
 
-This repository contains three folders:
+This repository contains the following:
 
 ### `App.R`
 - The R script that launches the Shiny App
